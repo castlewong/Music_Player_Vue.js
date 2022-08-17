@@ -1,4 +1,4 @@
 # Music_Player_Try
 A Simple Web Music Player Based on Vue.js
 
-![截屏2022-08-17 下午11.32.22](/Users/ssd4wilbur/Music_Player_Try/images/截屏2022-08-17 下午11.32.22.png)
+![alt](https://tva1.sinaimg.cn/large/e6c9d24ely1h5a6t8jlfbj212t0u041j.jpg)
