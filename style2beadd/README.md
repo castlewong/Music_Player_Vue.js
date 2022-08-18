@@ -1,2 +1,0 @@
-# Animated-gradient
-gradient

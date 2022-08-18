@@ -1,4 +1,22 @@
-body,
+body {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 1000% 1000%;
+  animation:gradient 28s ease infinite ;
+  padding: 300px 500px;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
 ul,
 dl,
 dd {
@@ -12,19 +30,16 @@ dd {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url("../images/bg.jpg") no-repeat;
-  background-size: 100% 100%;
 }
 
 .play_wrap {
-  width: 800px;
+  width: 1000px;
   height: 544px;
   position: fixed;
   left: 50%;
   top: 50%;
-  margin-left: -400px;
+  margin-left: -500px;
   margin-top: -272px;
-  /* background-color: #f9f9f9; */
 }
 
 .search_bar {
@@ -152,7 +167,7 @@ dd {
   width: 400px;
   height: 435px;
   position: absolute;
-  left: 200px;
+  left: 300px;
   top: 0px;
 }
 
@@ -244,16 +259,16 @@ dd {
 }
 .audio_con {
   height: 50px;
-  background-color: #f1f3f4;
-  border-bottom-left-radius: 4px;
-  border-bottom-right-radius: 4px;
+  background-color: #3db9ca;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
 }
 .myaudio {
-  width: 800px;
-  height: 40px;
-  margin-top: 5px;
+  width: 1000px;
+  height: 50px;
+  margin-top: 0px;
   outline: none;
-  background-color: #f1f3f4;
+  background-color: #e6ebed;
 }
 /* 旋转的动画 */
 @keyframes Rotate {
