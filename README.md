@@ -1,7 +1,7 @@
 # Music_Player_Try
 > A Simple Web Music Player Based on Vue.js
 - playing and browsing songs, comments
-- MV
+- watching MV
 - gradient bg-color
 - rotating Vinyl imitation
 
