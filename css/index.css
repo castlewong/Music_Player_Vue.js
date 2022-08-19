@@ -130,24 +130,24 @@ dd {
 
 .song_list li b {
   font-weight: normal;
-  width: 122px;
+  width: 212px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
 .song_stretch .song_list li b {
-  width: 200px;
+  width: 300px;
 }
 
 .song_stretch .song_list li em {
-  width: 150px;
+  width: 350px;
 }
 
 .song_list li span {
   width: 23px;
   height: 17px;
-  margin-right: 50px;
+  margin-right: 40px;
 }
 /* what does this mean? */
 .song_list li span i {
