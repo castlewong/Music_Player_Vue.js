@@ -1,4 +1,4 @@
-# Music_Player_Try
+# Music_Player
 > A Simple Web Music Player Based on Vue.js
 - playing and browsing songs, comments
 - watching MV
